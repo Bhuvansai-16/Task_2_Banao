@@ -30,6 +30,15 @@ self_healing_classifier/
 ## How to Run
 
 ### 1. Install dependencies
-pip install transformers datasets
-
+```bash
+pip install -r requirements.txt
+```
+### 2. Fine Tune mdoel
+```bash
+python model_finetune.py
+```
+### 3. Run CLI app
+```bash
+python cli_app.py
+```
 
