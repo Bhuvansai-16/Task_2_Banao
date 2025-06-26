@@ -18,14 +18,14 @@ Build a robust CLI classifier that:
 
 ##  Project Structure
 self_healing_classifier/
-├── cli_app.py 
-├── dag_graph.py 
-├── model_finetune.py 
-├── logger.py
-├── logs/
-│ └── prediction_log.txt 
-├── model_output/ 
-└── README.md 
+- ├── cli_app.py 
+- ├── dag_graph.py 
+- ├── model_finetune.py 
+-├── logger.py
+- ├── logs/
+- │ └── prediction_log.txt 
+- ├── model_output/ 
+- └── README.md 
 
 ## How to Run
 
