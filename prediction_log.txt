@@ -1,0 +1,24 @@
+[2025-06-25 19:23:10.669651] [Inference] Predicted: Negative | Confidence: 0.85
+[2025-06-25 19:23:10.671661] [FinalDecision] Final Label: Negative
+[2025-06-25 19:23:30.579918] [Inference] Predicted: Positive | Confidence: 0.97
+[2025-06-25 19:23:30.581933] [FinalDecision] Final Label: Positive
+[2025-06-25 19:26:05.766951] [Inference] Predicted: Negative | Confidence: 0.53
+[2025-06-25 19:26:05.768964] [ConfidenceCheck] Low confidence detected. Triggering fallback.
+[2025-06-25 19:26:11.949503] [Fallback] User clarified to: Negative
+[2025-06-25 19:26:11.951159] [FinalDecision] Final Label: Negative (Corrected)
+[2025-06-25 19:37:11.857969] [Inference] Predicted: Negative | Confidence: 0.85
+[2025-06-25 19:37:11.858478] [FinalDecision] Final Label: Negative
+[2025-06-25 19:37:35.020906] [Inference] Predicted: Positive | Confidence: 0.97
+[2025-06-25 19:37:35.021591] [FinalDecision] Final Label: Positive
+[2025-06-25 19:37:49.409234] [Inference] Predicted: Negative | Confidence: 0.53
+[2025-06-25 19:37:49.410244] [ConfidenceCheck] Low confidence detected. Triggering fallback.
+[2025-06-25 19:37:56.669227] [Fallback] User clarified to: Negative
+[2025-06-25 19:37:56.670286] [FinalDecision] Final Label: Negative (Corrected)
+[2025-06-25 19:42:34.534578] [Inference] Predicted: Negative | Confidence: 0.85
+[2025-06-25 19:42:34.535581] [FinalDecision] Final Label: Negative
+[2025-06-25 19:42:53.717972] [Inference] Predicted: Positive | Confidence: 0.97
+[2025-06-25 19:42:53.717972] [FinalDecision] Final Label: Positive
+[2025-06-25 19:43:03.283519] [Inference] Predicted: Negative | Confidence: 0.53
+[2025-06-25 19:43:03.284517] [ConfidenceCheck] Low confidence detected. Triggering fallback.
+[2025-06-25 19:43:10.358485] [Fallback] User clarified to: Negative
+[2025-06-25 19:43:10.359998] [FinalDecision] Final Label: Negative (Corrected)
