@@ -18,15 +18,14 @@ Build a robust CLI classifier that:
 
 ##  Project Structure
 self_healing_classifier/
-├── cli_app.py # CLI interface
-├── dag_graph.py # Node definitions (Inference, ConfidenceCheck, Fallback)
-├── model_finetune.py # Fine-tuning RoBERTa on SST-2
-├── logger.py # Logs prediction activity
+├── cli_app.py 
+├── dag_graph.py 
+├── model_finetune.py 
+├── logger.py
 ├── logs/
-│ └── prediction_log.txt # Auto-generated
-├── model_output/ # Auto-created after fine-tuning
-└── README.md # You're reading it!
-
+│ └── prediction_log.txt 
+├── model_output/ 
+└── README.md 
 
 ## How to Run
 
